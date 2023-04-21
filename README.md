@@ -1,1 +1,1 @@
-# Clone VIBE music app
+# Redesigned VIBE music app
